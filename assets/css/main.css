@@ -3129,10 +3129,11 @@
 		}
 
 		#banner p {
-			color: #aaa;
-			font-size: 1.5em;
+			color: #fff;
+			align-content: left;
+			/* font-size: 1.5em;
 			margin-bottom: 1.75em;
-			text-transform: uppercase;
+			text-transform: uppercase; */
 		}
 
 		@media screen and (max-width: 1280px) {
