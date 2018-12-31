@@ -26,14 +26,15 @@
 		display: block;
 	}
 
-	.section1 {
+	/* .section1 {
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/tango-beach.jpg");
+		background-image: url("images/overlay.png"), url("../../images/tango-crop2.jpg");
 		background-position-y: -280px;
-		background-size: cover;
+		background-size: 70%;
+		background-repeat: no-repeat;
 		line-height: 1.75;
 		text-align: center;
-	}
+	} */
 
 	.section1 p {
 		color: #fff
@@ -3110,10 +3111,10 @@
 		background-attachment: scroll;
 	}
 
-	#banner {
+	#banner, .section1s{
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/tango-beach.jpg");
+		background-image: url("images/overlay.png"), url("../../images/ballroom-A9.jpg");
 		background-position-y: -280px;
 		background-size: cover;
 		line-height: 1.75;
