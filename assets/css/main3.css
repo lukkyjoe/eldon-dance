@@ -3114,13 +3114,11 @@
 	#banner, .section1s{
 		padding: 16em 0 13em 0;
 		background-attachment: scroll;
-		background-image: url("images/overlay.png"), url("../../images/ballroom-A9-2.jpg");
+		background-position-y: -290px;
+		background-image: url("images/overlay.png"), url("../../images/harp-horizontal.png");
 		background-size: cover;
 		line-height: 1.75;
 		text-align: center;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
 	}
 
 		#banner:last-child {
@@ -3147,6 +3145,7 @@
 
 			#banner {
 				padding: 14em 0 11em 0;
+				background-position-y: 0px;
 			}
 
 				#banner h2 {
@@ -3159,6 +3158,7 @@
 
 			#banner {
 				padding: 9em 0 7em 0;
+				background-position-y: 0px;
 			}
 
 		}
@@ -3167,6 +3167,7 @@
 
 			#banner {
 				padding: 6em 2em 6em 2em;
+				background-position-y: 0px;
 			}
 
 				#banner br {
@@ -3187,8 +3188,7 @@
 
 			#banner {
 				padding: 4em 2em 4em 2em;
-				background-position-y: -150px;
-				background-position-x: -320px;
+				background-position-y: 0px;
 			}
 
 		}

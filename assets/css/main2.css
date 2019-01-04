@@ -3114,13 +3114,10 @@
 	#banner, .section1s{
 		padding: 16em 0 13em 0;
 		background-attachment: scroll;
-		background-image: url("images/overlay.png"), url("../../images/ballroom-A9-2.jpg");
+		background-image: url("images/overlay.png"), url("../../images/tango-cropped2.jpg");
 		background-size: cover;
 		line-height: 1.75;
 		text-align: center;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
 	}
 
 		#banner:last-child {
@@ -3187,8 +3184,6 @@
 
 			#banner {
 				padding: 4em 2em 4em 2em;
-				background-position-y: -150px;
-				background-position-x: -320px;
 			}
 
 		}
